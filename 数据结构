@@ -11,4 +11,11 @@
   
   一些碎碎念：通读一遍是作者推荐的方法，这是如何实现的呢，在通读到时候也上手敲敲吧。
   and旁观了ACM的寒假安排表，果然厉害哇。
-  
+2022-1-15
+Node
+1)find
+2)insert:malloc 
+3)delete
+4)create:a.always in head;b.always in tail
+5)all delete:free()
+6)static node：
