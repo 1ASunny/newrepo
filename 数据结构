@@ -19,3 +19,9 @@ Node
 4)create:a.always in head;b.always in tail
 5)all delete:free()
 6)static node：
+2022-1-16
+Tree
+365/778通看
+today：单链表的创建，静态链表的实现；
+用洛谷题来训练掌握能力；
+
