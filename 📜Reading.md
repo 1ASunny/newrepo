@@ -120,3 +120,8 @@ In this chapter,Neil follow his interesting to Hellen Hall--a playing opeare.
 That day is also Todd's day,but Todd is so angry that he believed that his parents just love his excelent bother ,not him.
 Neil helps Todd drop out of the sadness.Charlie is also in high about to have a data with Cahe.
 The socity also have a meet.But they are in low so the meet is not relax like past.
+
+2022-01-22
+Chapter 10
+review:
+Knosx fell in his sad love ,the oher have meeting.sanme and different.
